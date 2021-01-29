@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+ }
+
+.form-login {
+    width:500px;
+    margin: auto; 
+    margin-top: 15%;
+    margin-bottom: 10%;
+    padding:60px 50px 60px 50px;
+    /* background-color:rgba(grey,0.25); */
+    /* box-shadow: 0px 0px 20px rgba(black,0.15); */
+    
+}
+
+	@media screen and (max-width: 700px) {
+		.tb_barang {
+			width: 100%;
+		}
+
+		.isi {
+			width: 100%;
+		}
+	}
